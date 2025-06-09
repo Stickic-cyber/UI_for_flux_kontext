@@ -9,7 +9,7 @@
 ### 1.1 获取 BFL API Key
 
 1.  访问 [bfl.ai](https://bfl.ai) 网站。
-2.  根据网站指引注册账号并获取您的 API Key。API Key 通常以 `sk-` 开头。这是您调用 BFL.AI API 的凭证，请务必妥善保管。
+2.  根据网站指引注册账号并获取您的 API Key。这是您调用 BFL.AI API 的凭证，请务必妥善保管。
 
 ### 1.2 运行 Gradio 应用
 
