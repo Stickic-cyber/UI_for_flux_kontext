@@ -1,4 +1,3 @@
-# UI_for_flux_kontext
 # BFL.AI Flux Kontext Pro 图像生成与编辑工具使用指南
 
 本工具是一个基于 Gradio 框架构建的简易前端应用，它允许您通过 BFL.AI 的 Flux Kontext Pro API 进行文本到图像的生成，或对现有图像进行编辑。
